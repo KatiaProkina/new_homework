@@ -1,0 +1,9 @@
+.words{
+   border: solid 2px black;
+   margin-right: 3px;
+   padding: 3px;
+}
+.wordList{
+    display: flex
+    
+}
